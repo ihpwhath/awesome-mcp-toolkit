@@ -33,6 +33,7 @@
 ## 🛠️ 精选 MCP 工具与服务器 (Curated MCP Servers)
 
 ### 开发与代码 (Developer & Code)
+* **[Agent QA](https://github.com/vostride/agent-qa)** - 通过 CLI 与 MCP 接口运行自然语言 Web 和移动端回归测试，并保留持久化测试记忆。
 * **[GitHub MCP Server](https://github.com/github/github-mcp-server)** - 官方 GitHub 远程与本地 MCP 服务器，支持仓库管理、代码检索与 PR/Issue 操作。
 * **[Git MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/git)** - 本地 Git 仓库版本控制与差异分析。
 
