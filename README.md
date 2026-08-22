@@ -43,6 +43,7 @@
 ### 云服务与 API (Cloud & APIs)
 * **[FastMCP](https://github.com/PrefectHQ/fastmcp)** - 高性能 Python 快速构建 MCP 服务器与 OAuth 代理框架。
 * **[Google SecOps MCP](https://security.googlecloudcommunity.com)** - 远程集成云安全与告警自动化。
+* **[Pocket Drives](https://github.com/RevList/pocket-drives-mcp)** - 搜索独立车主的点对点豪华、超跑与电动车租赁；远程 Streamable HTTP（https://pocketdrives.ai/mcp，无需认证），适用于 Claude、Cursor 等 MCP 客户端。
 
 ---
 
