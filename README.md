@@ -35,6 +35,7 @@
 ### 开发与代码 (Developer & Code)
 * **[GitHub MCP Server](https://github.com/github/github-mcp-server)** - 官方 GitHub 远程与本地 MCP 服务器，支持仓库管理、代码检索与 PR/Issue 操作。
 * **[Git MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/git)** - 本地 Git 仓库版本控制与差异分析。
+* **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)** - 面向 AI Agent 的本地优先运行时与 MCP 桥接，提供持久会话、沙箱工具、审批、凭据边界、审计与回放。
 
 ### 数据库与存储 (Databases & Storage)
 * **[PostgreSQL MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)** - 安全读取与查询 Postgres 数据库。
