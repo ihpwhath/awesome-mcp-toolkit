@@ -35,6 +35,7 @@
 ### 开发与代码 (Developer & Code)
 * **[GitHub MCP Server](https://github.com/github/github-mcp-server)** - 官方 GitHub 远程与本地 MCP 服务器，支持仓库管理、代码检索与 PR/Issue 操作。
 * **[Git MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/git)** - 本地 Git 仓库版本控制与差异分析。
+* **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** - MIT 开源、本地优先的视频 CLI 与 MCP 工具包，支持 Codex、Claude Code 等编程 Agent 通过 plan.json 编排、剪辑和生成视频。
 
 ### 数据库与存储 (Databases & Storage)
 * **[PostgreSQL MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)** - 安全读取与查询 Postgres 数据库。
