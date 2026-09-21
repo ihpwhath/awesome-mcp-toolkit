@@ -41,6 +41,7 @@
 * **[Google Drive MCP](https://github.com/modelcontextprotocol/servers)** - 检索与搜索 Google Drive 文档、表格与文件。
 
 ### 云服务与 API (Cloud & APIs)
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 * **[FastMCP](https://github.com/PrefectHQ/fastmcp)** - 高性能 Python 快速构建 MCP 服务器与 OAuth 代理框架。
 * **[Google SecOps MCP](https://security.googlecloudcommunity.com)** - 远程集成云安全与告警自动化。
 
