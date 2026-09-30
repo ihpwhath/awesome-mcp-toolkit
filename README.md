@@ -39,6 +39,7 @@
 ### 数据库与存储 (Databases & Storage)
 * **[PostgreSQL MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)** - 安全读取与查询 Postgres 数据库。
 * **[Google Drive MCP](https://github.com/modelcontextprotocol/servers)** - 检索与搜索 Google Drive 文档、表格与文件。
+* **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** - 开发者 Alpha 阶段的 Rust 加密追加式知识库，通过 MCP 为 Claude、Codex 等客户端提供带范围和有效期限制的知识访问。
 
 ### 云服务与 API (Cloud & APIs)
 * **[FastMCP](https://github.com/PrefectHQ/fastmcp)** - 高性能 Python 快速构建 MCP 服务器与 OAuth 代理框架。
