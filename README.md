@@ -43,6 +43,7 @@
 ### 云服务与 API (Cloud & APIs)
 * **[FastMCP](https://github.com/PrefectHQ/fastmcp)** - 高性能 Python 快速构建 MCP 服务器与 OAuth 代理框架。
 * **[Google SecOps MCP](https://security.googlecloudcommunity.com)** - 远程集成云安全与告警自动化。
+* **[Tale](https://github.com/tale-project/tale)** - 自托管工作区的第一方 MCP 接口，支持知识库与版本化自动化操作；适用于可配置 Bearer 密钥及组织请求头的 HTTP 客户端。
 
 ---
 
