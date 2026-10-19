@@ -33,6 +33,7 @@
 ## 🛠️ 精选 MCP 工具与服务器 (Curated MCP Servers)
 
 ### 开发与代码 (Developer & Code)
+* **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** - 面向 AI Agent 的本地 CLI 与 stdio MCP 支付运行时，仅支持 macOS Apple Silicon，签名需所有者在前台终端批准，已用本地 MCP 协议客户端验证。
 * **[GitHub MCP Server](https://github.com/github/github-mcp-server)** - 官方 GitHub 远程与本地 MCP 服务器，支持仓库管理、代码检索与 PR/Issue 操作。
 * **[Git MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/git)** - 本地 Git 仓库版本控制与差异分析。
 
