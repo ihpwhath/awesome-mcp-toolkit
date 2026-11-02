@@ -36,6 +36,8 @@
 * **[GitHub MCP Server](https://github.com/github/github-mcp-server)** - 官方 GitHub 远程与本地 MCP 服务器，支持仓库管理、代码检索与 PR/Issue 操作。
 * **[Git MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/git)** - 本地 Git 仓库版本控制与差异分析。
 
+* **[Kilobat CLI](https://github.com/seifip/kilobat-cli)** - macOS 本机网络诊断与流量观察，提供 stdio MCP 服务供兼容客户端调用。
+
 ### 数据库与存储 (Databases & Storage)
 * **[PostgreSQL MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)** - 安全读取与查询 Postgres 数据库。
 * **[Google Drive MCP](https://github.com/modelcontextprotocol/servers)** - 检索与搜索 Google Drive 文档、表格与文件。
