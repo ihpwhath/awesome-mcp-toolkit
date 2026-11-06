@@ -43,6 +43,7 @@
 ### 云服务与 API (Cloud & APIs)
 * **[FastMCP](https://github.com/PrefectHQ/fastmcp)** - 高性能 Python 快速构建 MCP 服务器与 OAuth 代理框架。
 * **[Google SecOps MCP](https://security.googlecloudcommunity.com)** - 远程集成云安全与告警自动化。
+* **[DC Hub](https://github.com/azmartone67/dchub-mcp-server)** - Live data layer for data-center site selection; Data Center Power Index (DCPI) across 300+ markets. Remote MCP: https://dchub.cloud/mcp
 
 ---
 
